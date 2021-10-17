@@ -1,0 +1,14 @@
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.exe
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.deps.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.runtimeconfig.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.runtimeconfig.dev.json
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.dll
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\bin\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.pdb
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.csproj.AssemblyReference.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.AssemblyInfoInputs.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.AssemblyInfo.cs
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.csproj.CoreCompileInputs.cache
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.dll
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.pdb
+C:\Users\zacha\source\repos\Z Tata GC Lab 2 Deliverable\Z Tata GC Lab 2 Deliverable\obj\Debug\netcoreapp3.1\Z Tata GC Lab 2 Deliverable.genruntimeconfig.cache
