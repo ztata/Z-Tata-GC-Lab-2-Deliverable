@@ -31,6 +31,7 @@ namespace Z_Tata_GC_Lab_2_Deliverable
                 userInput = Console.ReadLine();
                 double roomHeight = double.Parse(userInput);
 
+                // creates variables for room parameters and performs calculations based on user inputs 
                 double roomPerimeter = (roomLength * 2) + (roomWidth * 2);
                 double roomArea = roomWidth * roomLength;
                 double roomVolume = roomLength * roomHeight * roomWidth;
@@ -44,6 +45,7 @@ namespace Z_Tata_GC_Lab_2_Deliverable
                 Console.WriteLine("Would you like to repeat the program? Type yes to repeat or anything else for no.");
                 userInput = Console.ReadLine();
 
+                //if else statements either end of continue the loop to repeat the program 
                 if (userInput.Trim().ToLower() == "yes")
                 {
                     repeatGame = true;
